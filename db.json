@@ -2,7 +2,7 @@
   "events": [
     {
       "id": 1,
-      "status": 2,
+      "status": 1,
       "title": "Comparison between ",
       "description": "We find that x is ranked significantly higher than y",
       "ci_lo_1" : ".1",
