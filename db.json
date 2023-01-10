@@ -3,7 +3,7 @@
     {
       "id": 1,
       "status": 1,
-      "title": "Comparison between ",
+      "title": "Comparison between x and y",
       "description": "We find that x is ranked significantly higher than y",
       "ci_lo_1" : ".1",
       "ci_hi_1" : ".2",
@@ -14,15 +14,15 @@
     {
       "id": 2,
       "status": 1,
-      "title": "Community Gardening",
-      "description": "We find that x is ranked significantly higher than y",
+      "title": "Comparison between a and b",
+      "description": "We find that a is ranked significantly higher than b",
       "bayesvalue" : 2
     },
     {
       "id": 3,
       "status": 2,
-      "title": "Beach Cleanup",
-      "description": "We find that x is not significantly higher than y",
+      "title": "Comparison between p and p",
+      "description": "We find that p is not significantly higher than q",
       "bayesvalue" : 3
     }
   ]
