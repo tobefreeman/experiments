@@ -16,6 +16,10 @@
       "status": 1,
       "title": "Comparison between a and b",
       "description": "We find that a is ranked significantly higher than b",
+      "ci_lo_1" : ".4",
+      "ci_hi_1" : ".5",
+      "ci_lo_1" : ".7",
+      "ci_hi_1" : ".8",
       "bayesvalue" : 2
     },
     {
@@ -23,6 +27,10 @@
       "status": 2,
       "title": "Comparison between p and p",
       "description": "We find that p is not significantly higher than q",
+      "ci_lo_1" : ".2",
+      "ci_hi_1" : ".4",
+      "ci_lo_1" : ".3",
+      "ci_hi_1" : ".4",
       "bayesvalue" : 3
     }
   ]
