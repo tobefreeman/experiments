@@ -27,10 +27,10 @@
       "status": 1,
       "title": "Negative emotions are seldom discussed by the cohort",
       "description": "Most online forums host discussions about depression and anxiety. In comparison with a group of individuals discussing a recent turbulent week in Swiss banking, negative affect is unusually underrepresented in their discussions",
-      "ci_lo_1" : ".07",
-      "ci_hi_1" : ".09",
-      "ci_lo_2" : ".11",
-      "ci_hi_2" : ".17",
+      "ci_lo_1" : ".11",
+      "ci_hi_1" : ".17",
+      "ci_lo_2" : ".07",
+      "ci_hi_2" : ".09",
       "bayesvalue" : 3
     },
     {
