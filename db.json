@@ -4,7 +4,7 @@
       "id": 1,
       "status": 1,
       "title": "Self-efficacy - beliefs about one’s ability to perform and achieve a goal",
-      "description": "This is apparently the most important topic for our cohort. The cohort discusses self-efficacy more than comparable finance discussion forum (99% confidence level).",
+      "description": "This is apparently the most important topic for our cohort. The cohort discusses self-efficacy more than a comparable finance discussion forum (99% confidence level).",
       "ci_lo_1" : ".19",
       "ci_hi_1" : ".21",
       "ci_lo_2" : ".13",
